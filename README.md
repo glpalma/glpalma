@@ -4,7 +4,7 @@ Hello! My name is Gustavo, but some call me Palma (my last name). I am 22 years 
 
 I'm currently learning how to program on embedded devices for combat robots, which is a great way to see your code working in the real world.
 
-I speak both Brazilian Portuguese (native) and English.
+I speak both Brazilian Portuguese (native) and English and I'm currently studying German.
 
 ## Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=glpalma&theme=buefy&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=400)](https://git.io/streak-stats)
