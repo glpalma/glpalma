@@ -1,6 +1,6 @@
 # Hi! 👋
 
-Hello! My name is Gustavo, but some call me Palma (my last name). I am 24 years old and currently studying computer engineering 💻 at the State University of Campinas (UNICAMP), in Brazil 🇧🇷. I have always been interested in how some tech products work like magic, which is the main reason why I chose my major. 
+Hello! My name is Gustavo and welcome to my GitHub!
 
 I speak both Brazilian Portuguese (native) and English.
 
